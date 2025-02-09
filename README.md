@@ -6,9 +6,10 @@
 
 ## 👋 About Me
 
-Hi there! Aelex, a passionate developer with a love for technology and learning new things. Welcome to my GitHub profile!
+Hi there! I'm Christian, a passionate developer who thrives on building full-stack applications. I have a focus on web development and application development, and I'm also interested in the world of machine learning. Welcome to my GitHub profile!
 
-- 🌱 I’m currently learning advanced JavaScript, TypeScript, and machine learning.
+
+- 🌱 I’m currently learning advanced JavaScript, and machine learning.
 - 💬 Ask me about web development, JavaScript, or any tech-related topics.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yohanes-christian-devano/) | [Twitter](https://x.com/Nestia27) | [Email](mailto:al.gendon39@gmail.com)
 
