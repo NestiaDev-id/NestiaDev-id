@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-Hi there! I'm Asep Haryana, a passionate developer with a love for technology and learning new things. Welcome to my GitHub profile!
+Hi there! Aelex, a passionate developer with a love for technology and learning new things. Welcome to my GitHub profile!
 
 - 🌱 I’m currently learning advanced JavaScript, TypeScript, and machine learning.
 - 💬 Ask me about web development, JavaScript, or any tech-related topics.
