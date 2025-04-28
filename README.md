@@ -77,15 +77,26 @@ Hi there! I'm Christian, a passionate developer who thrives on building full-sta
 
 ## 📊 GitHub Stats
 
-<div align="center">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=NestiaDev-id&bg_color=0d1117&color=ffffff&line=dc143c&point=ffd333&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-    </a>
-    <img src="https://github-readme-stats.vercel.app/api?username=NestiaDev-id&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="Stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NestiaDev-id&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Languages graph" />
-    <img src="https://streak-stats.demolab.com?user=NestiaDev-id&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" />
-    <br />
-</div>
+  <!-- Activity Graph -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NestiaDev-id&bg_color=0d1117&color=ffffff&line=dc143c&point=ffd333&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
+
+<table align="center">
+    <tr>
+        <!-- Left side: Stats, Languages, Streak -->
+        <td align="left" style="vertical-align: top;">
+            <img src="https://streak-stats.demolab.com?user=NestiaDev-id&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="Streak graph" />
+            <br />
+            <img src="https://github-readme-stats.vercel.app/api?username=NestiaDev-id&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="160" alt="Stats graph" />
+            <br />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NestiaDev-id&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="Languages graph" />
+        </td>
+        <td>
+            <img src="https://github-profile-trophy.vercel.app/?username=NestiaDev-id&theme=algolia&no-frame=true&no-bg=true&column=3&margin-w=10&margin-h=10&title=MultiLanguage,Commits,Years,Repositories,PullRequest,Issues,Stars" height="400" />    
+        </td>
+    </tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/main/assets/generated/pacman-contribution-graph-dark.svg">
