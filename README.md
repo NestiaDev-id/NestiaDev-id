@@ -1,10 +1,9 @@
 <div align="center">
+    <img src="assets/generated/767132.png" alt="GIF Image" />
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=0F2027,203A43,2C5364&center=true&vCenter=true&width=435&lines=Selamat+datang+di+github+NestiaDev-id" alt="Typing SVG" />
     </a>
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NestiaDev-id&label=Profile%20views&color=0e75b6&style=flat" alt="NestiaDev-id" /> </p>
 
 ## 👋 About Me
 
@@ -13,6 +12,8 @@ Hi there! I'm Christian, a passionate developer who thrives on building full-sta
 - 🌱 I’m currently learning advanced JavaScript, and machine learning.
 - 💬 Ask me about web development, JavaScript, or any tech-related topics.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yohanes-christian-devano/) | [Twitter](https://x.com/Nestia27) | [Email](mailto:al.gendon39@gmail.com)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NestiaDev-id&label=Profile%20views&color=0e75b6&style=flat" alt="NestiaDev-id" /> </p>
 
 ## 💻 Technologies & Tools
 
@@ -24,6 +25,10 @@ Hi there! I'm Christian, a passionate developer who thrives on building full-sta
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+</div>
+
+<div align="right"  >
+    <img src="assets/generated/image.jpg" style="position: absolute; right: 15; bottom: 0; max-width: 375px; height: auto;" alt="Anime" />
 </div>
 
 ### 🖼️ Frontend Development
