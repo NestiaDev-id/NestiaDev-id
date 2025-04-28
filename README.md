@@ -13,9 +13,9 @@ Hi there! I'm Christian, a passionate developer who thrives on building full-sta
 - 💬 Ask me about web development, JavaScript, or any tech-related topics.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yohanes-christian-devano/) | [Twitter](https://x.com/Nestia27) | [Email](mailto:al.gendon39@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NestiaDev-id&label=Profile%20views&color=0e75b6&style=flat" alt="NestiaDev-id" /> </p>
 
 ## 💻 Technologies & Tools
+<img align="right" src="https://komarev.com/ghpvc/?username=NestiaDev-id&label=Profile%20views&color=0e75b6&style=flat" alt="NestiaDev-id" />
 
 ### 🖥️ Programming Languages
 
