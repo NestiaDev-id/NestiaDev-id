@@ -78,23 +78,23 @@ Hi there! I'm Christian, a passionate developer who thrives on building full-sta
 ## 📊 GitHub Stats
 
 <div align="center">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=NestiaDev-id&bg_color=0d1117&color=ffffff&line=dc143c&point=ffd333&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+    </a>
     <img src="https://github-readme-stats.vercel.app/api?username=NestiaDev-id&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="Stats graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NestiaDev-id&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Languages graph" />
     <img src="https://streak-stats.demolab.com?user=NestiaDev-id&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" />
     <br />
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=NestiaDev-id&bg_color=0d1117&color=ffffff&line=dc143c&point=ffd333&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-    </a>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/main/assets/generated/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/main/assets/generated/github-snake.svg">
-  <img alt="GitHub Contributions Snake" src="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/main/assets/generated/github-snake.svg">
-</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/main/assets/generated/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/main/assets/generated/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/main/assets/generated/pacman-contribution-graph.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/main/assets/generated/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/main/assets/generated/github-snake.svg">
+  <img alt="GitHub Contributions Snake" src="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/main/assets/generated/github-snake.svg">
 </picture>
