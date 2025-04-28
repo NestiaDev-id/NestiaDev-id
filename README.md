@@ -83,11 +83,16 @@ Hi there! I'm Christian, a passionate developer who thrives on building full-sta
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/main/assets/generated/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/main/assets/generated/github-snake.svg">
+  <img alt="GitHub Contributions Snake" src="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/main/assets/generated/github-snake.svg">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/main/assets/generated/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/main/assets/generated/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/main/assets/generated/pacman-contribution-graph.svg">
+</picture>
 
 ## 🌟 Profile Views
 
