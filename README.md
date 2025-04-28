@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/generated/767132.png" alt="GIF Image" />
+    <img src="assets/generated/767132.png" style="width: 75%; height: auto;" alt="GIF Image" />
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=0F2027,203A43,2C5364&center=true&vCenter=true&width=435&lines=Selamat+datang+di+github+NestiaDev-id" alt="Typing SVG" />
     </a>
