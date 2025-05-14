@@ -1,42 +1,38 @@
-name: GitHub Snake Game
+name: Generate Pacman Animation
 
 on:
-  # Schedule the workflow to run daily at midnight UTC
-  schedule:
-    - cron: "0 0 * * *"
-  # Allow manual triggering of the workflow
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
   workflow_dispatch:
-  # Trigger the workflow on pushes to the main branch
   push:
     branches:
       - main
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
+
     steps:
       # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Generate the snake animations
-      - name: Generate GitHub Contributions Snake Animations
-        uses: Platane/snk@v3
+      # Step 2: Generate pacman-contribution-graph.svg
+      - name: Generate Pacman Contribution Graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            assets/generated/github-snake.svg
-            assets/generated/github-snake-dark.svg?palette=github-dark
-            assets/generated/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Commit and push the changes to the main branch
-      - name: Commit and Push Generated Files
+      # Step 3: Commit and push the generated file to the 'main' branch in the 'assets/generated' folder
+      - name: Commit and Push Generated File
         run: |
+          mkdir -p assets/generated
+          mv pacman-contribution-graph.svg assets/generated/
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/generated
-          git commit -m "Update snake animation [skip ci]" || echo "No changes to commit"
+          git add assets/generated/pacman-contribution-graph.svg
+          git commit -m "Update pacman contribution animation [skip ci]" || echo "No changes to commit"
           git push
