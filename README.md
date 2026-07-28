@@ -83,21 +83,33 @@ Hi there! I'm Christian, a passionate developer who thrives on building full-sta
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=NestiaDev-id&bg_color=0d1117&color=ffffff&line=dc143c&point=ffd333&area=true&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 
-<table align="center">
-    <tr>
-        <!-- Left side: Stats, Languages, Streak -->
-        <td align="left" style="vertical-align: top;">
-            <img src="https://streak-stats.demolab.com?user=NestiaDev-id&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="Streak graph" />
-            <br />
-            <img src="https://github-readme-stats.vercel.app/api?username=NestiaDev-id&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="160" alt="Stats graph" />
-            <br />
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NestiaDev-id&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="Languages graph" />
-        </td>
-        <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=NestiaDev-id&theme=algolia&no-frame=true&no-bg=true&column=3&margin-w=10&margin-h=10&title=MultiLanguage,Commits,Years,Repositories,PullRequest,Issues,Stars" height="400" />    
-        </td>
-    </tr>
+<table align="center" style="max-width: 850px; width: 100%;">
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NestiaDev-id&theme=tokyonight&border=03C988&background=0D1117" alt="NestiaDev-id GitHub streak" height="170px"/>
+      </a>
+    </td>
+  </tr>
+  
+  <!-- Baris Bawah: Dibagi Jadi Dua Kolom Sejajar dan Rapat -->
+  <tr>
+    <!-- Sisi Kiri: Github Stats -->
+    <td align="right" style="vertical-align: top; padding-top: 15px; padding-right: 10px; width: 50%;">
+      <a href="https://github.com">
+        <img alt="NestiaDev-id Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=NestiaDev-id&show_icons=true&count_private=true&theme=react&border_color=03C988&bg_color=0D1117&title_color=96E9C6&icon_color=83C0C1" height="192px"/>
+      </a>
+    </td>
+    
+<td align="left" style="vertical-align: top; padding-top: 15px; padding-left: 10px; width: 50%;">
+      <a href="https://github.com">
+        <img alt="NestiaDev-id Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=NestiaDev-id&langs_count=8&layout=compact&theme=react&border_color=03C988&bg_color=0D1117&title_color=96E9C6&icon_color=F8D866" height="192px"/>
+      </a>
+    </td>
+  </tr>
 </table>
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/main/assets/generated/pacman-contribution-graph-dark.svg">
