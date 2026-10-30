@@ -84,6 +84,11 @@ Hi there! I'm Christian, a passionate developer who thrives on building full-sta
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#49](https://github.com/NestiaDev-id/My-Web-Portofolio/pull/49) in [NestiaDev-id/My-Web-Portofolio](https://github.com/NestiaDev-id/My-Web-Portofolio)
+2. 💪 Opened PR [#48](https://github.com/NestiaDev-id/My-Web-Portofolio/pull/48) in [NestiaDev-id/My-Web-Portofolio](https://github.com/NestiaDev-id/My-Web-Portofolio)
+3. 🎉 Merged PR [#47](https://github.com/NestiaDev-id/My-Web-Portofolio/pull/47) in [NestiaDev-id/My-Web-Portofolio](https://github.com/NestiaDev-id/My-Web-Portofolio)
+4. 💪 Opened PR [#47](https://github.com/NestiaDev-id/My-Web-Portofolio/pull/47) in [NestiaDev-id/My-Web-Portofolio](https://github.com/NestiaDev-id/My-Web-Portofolio)
+5. ❗ Opened issue [#46](https://github.com/NestiaDev-id/My-Web-Portofolio/issues/46) in [NestiaDev-id/My-Web-Portofolio](https://github.com/NestiaDev-id/My-Web-Portofolio)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
