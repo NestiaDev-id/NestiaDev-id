@@ -22,33 +22,61 @@ Hi there! I'm Christian, a passionate developer who thrives on building full-sta
 <img align="right" src="assets/generated/image.jpg" width="350px">
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,java,python,php&perline=10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
 </div>
 
 ### 🖼️ Frontend Development
+
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,flutter,tailwind,bootstrap,tauri&perline=10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
+    <img src="https://skillicons.dev/icons?i=tauri" />
 </div>
 
 ### 🏗️ Backend Development
+
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=laravel,nextjs,express,nodejs,fastapi,rust,bun&perline=10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" alt="Laravel" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI" />
+    <img src="https://cdn.simpleicons.org/huggingface" width="40" alt="Hugging Face" />
+    <img src="https://skillicons.dev/icons?i=next,express,bun,rust" />
 </div>
 
-### 🗄️ Databases
+### 🗄️ Databases & Cloud
+
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase,gcp&perline=10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" alt="Supabase" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="Google Cloud" />
+    <img src="https://skillicons.dev/icons?i=mysql,redis" />
 </div>
 
 ### 🛠️ Tools & DevOps
+
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=docker,postman,powershell,linux,arch,neovim,vscode,bash&perline=10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman" />
+    <img src="https://skillicons.dev/icons?i=powershell,bash" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="40" alt="Arch" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="Visual Studio Code" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="40" alt="Neovim" />
 </div>
 
 ### 📌 Version Control
+
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=git,github&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,github" />
 </div>
+
 
 ---
 
