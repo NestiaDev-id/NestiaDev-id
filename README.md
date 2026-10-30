@@ -84,10 +84,14 @@ Hi there! I'm Christian, a passionate developer who thrives on building full-sta
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </details>
+
+
 
 ---
 
