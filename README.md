@@ -22,37 +22,32 @@ Hi there! I'm Christian, a passionate developer who thrives on building full-sta
 <img align="right" src="assets/generated/image.jpg" width="350px">
 
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=javascript,typescript,java,python,php" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,java,python,php&perline=10" />
 </div>
 
 ### 🖼️ Frontend Development
-
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,flutter,tailwind,bootstrap,tauri" />
+    <img src="https://skillicons.dev/icons?i=react,flutter,tailwind,bootstrap,tauri&perline=10" />
 </div>
 
 ### 🏗️ Backend Development
-
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=laravel,nextjs,express,nodejs,fastapi,rust,bun" />
+    <img src="https://skillicons.dev/icons?i=laravel,nextjs,express,nodejs,fastapi,rust,bun&perline=10" />
 </div>
 
 ### 🗄️ Databases
-
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase,gcp" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase,gcp&perline=10" />
 </div>
 
 ### 🛠️ Tools & DevOps
-
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=docker,postman,powershell,linux,arch,neovim,vscode,bash" />
+    <img src="https://skillicons.dev/icons?i=docker,postman,powershell,linux,arch,neovim,vscode,bash&perline=10" />
 </div>
 
 ### 📌 Version Control
-
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=git,github" />
+    <img src="https://skillicons.dev/icons?i=git,github&perline=10" />
 </div>
 
 ---
