@@ -100,15 +100,27 @@ _log of my coding activity, open-source contributions, and repository updates:_
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
-<svg width="720" viewBox="0 0 720 116" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">🌞 Morning</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">1276 commits</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="6" width="83" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">22.97%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">🌆 Daytime</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">933 commits</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="30" width="60" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">16.80%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">🌃 Evening</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">1820 commits</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="54" width="118" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">32.77%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">🌙 Night</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">1525 commits</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="78" width="99" height="8" rx="4" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">27.46%</text></svg>
-
+```text
+🌞 Morning                1276 commits        ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+🌆 Daytime                936 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+🌃 Evening                1820 commits        ████████░░░░░░░░░░░░░░░░░   32.75 % 
+🌙 Night                  1525 commits        ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+```
 📅 **I'm Most Productive on Friday** 
 
-<svg width="720" viewBox="0 0 720 188" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Monday</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">827 commits</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="6" width="54" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">14.89%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Tuesday</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">638 commits</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="30" width="41" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">11.49%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">Wednesday</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">357 commits</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="54" width="23" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">6.43%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">Thursday</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">931 commits</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="78" width="60" height="8" rx="4" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">16.76%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">Friday</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">1125 commits</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="102" width="73" height="8" rx="4" fill="#90CAF9"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">20.26%</text><text x="0" y="136" font-family="monospace" font-size="13" fill="#c9d1d9">Saturday</text><text x="170" y="136" font-family="monospace" font-size="13" fill="#8b949e">666 commits</text><rect x="280" y="126" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="126" width="43" height="8" rx="4" fill="#90CAF9"/><text x="648" y="136" font-family="monospace" font-size="12" fill="#8b949e">11.99%</text><text x="0" y="160" font-family="monospace" font-size="13" fill="#c9d1d9">Sunday</text><text x="170" y="160" font-family="monospace" font-size="13" fill="#8b949e">1010 commits</text><rect x="280" y="150" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="150" width="65" height="8" rx="4" fill="#90CAF9"/><text x="648" y="160" font-family="monospace" font-size="12" fill="#8b949e">18.19%</text></svg>
+```text
+Monday                   827 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Tuesday                  638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Wednesday                357 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Thursday                 931 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Friday                   1128 commits        █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+Saturday                 666 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Sunday                   1010 commits        █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+```
 
 
 
- Last Updated on 30/10/2026 09:12:57 UTC
+ Last Updated on 30/10/2026 09:57:35 UTC
 <!--END_SECTION:waka-->
 
 </details>
