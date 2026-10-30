@@ -87,6 +87,40 @@ Hi there! I'm Christian, a passionate developer who thrives on building full-sta
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 385 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 57 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               23 repos            ██████████░░░░░░░░░░░░░░░   41.82 % 
+Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+GDScript                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Blade                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/main/assets/bar_graph.png)
+
+
+ Last Updated on 30/10/2026 07:05:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
