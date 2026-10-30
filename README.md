@@ -79,9 +79,7 @@ Hi there! I'm Christian, a passionate developer who thrives on building full-sta
 ## 📊 GitHub Stats
 
   <!-- Activity Graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NestiaDev-id&bg_color=0d1117&color=ffffff&line=dc143c&point=ffd333&area=true&hide_border=true" alt="GitHub Activity Graph" />
-  </a>
+  
 
 <table align="center" style="max-width: 850px; width: 100%;">
   <tr>
