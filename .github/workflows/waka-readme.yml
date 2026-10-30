@@ -24,7 +24,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           BAR_STYLE: "svg"
           BAR_RADIUS: "4"
-
+          SYMBOL_VERSION: "1" 
+          
           SHOW_AI_CODING: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
