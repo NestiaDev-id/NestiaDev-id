@@ -98,6 +98,8 @@ _log of my coding activity, open-source contributions, and repository updates:_
 <p> My coding activity isn't limited to a specific time of day. I maintain a consistent development routine, with a natural tendency to work during the evening and late-night hours.</p>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%206%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -120,7 +122,7 @@ Sunday                   1010 commits        █████░░░░░░�
 
 
 
- Last Updated on 31/10/2026 17:03:04 UTC
+ Last Updated on 31/10/2026 17:05:10 UTC
 <!--END_SECTION:waka-->
 
 </details>
