@@ -19,29 +19,12 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v7
 
-      # --- PACMAN ANIMATION STEPS ---
-      - name: Generate Light Mode Pacman Contribution Graph
+      - name: Generate Pacman Contribution Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: NestiaDev-id
-          SVG_OUTPUT_PATH: assets/generated/pacman-contribution-graph.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate Dark Mode Pacman Contribution Graph
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: NestiaDev-id
-          SVG_OUTPUT_PATH: assets/generated/pacman-contribution-graph-dark.svg
-          PACMAN_BACKGROUND_COLOR: "0d1117"    
-          PACMAN_WALL_COLOR: "21262d"       
-          PACMAN_COLOR: "58a6ff"          
-          PACMAN_POINT_COLOR: "c9d1d9"      
-          PACMAN_GHOST_COLOR: "8b949e"     
-          PACMAN_LOADING_COLOR: "c9d1d9" 
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          
       # --- SNAKE ANIMATION STEPS ---
       - name: Generate Snake Contribution Animation
         uses: Platane/snk@v3
