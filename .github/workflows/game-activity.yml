@@ -19,16 +19,19 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v7
 
+      # --- PACMAN ANIMATION STEPS ---
       - name: Generate Light Mode Pacman Contribution Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: NestiaDev-id
           SVG_OUTPUT_PATH: assets/generated/pacman-contribution-graph.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Dark Mode Pacman Contribution Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: NestiaDev-id
           SVG_OUTPUT_PATH: assets/generated/pacman-contribution-graph-dark.svg
           PACMAN_BACKGROUND_COLOR: "0d1117"    
           PACMAN_WALL_COLOR: "21262d"       
@@ -36,15 +39,19 @@ jobs:
           PACMAN_POINT_COLOR: "c9d1d9"      
           PACMAN_GHOST_COLOR: "8b949e"     
           PACMAN_LOADING_COLOR: "c9d1d9" 
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # --- SNAKE ANIMATION STEPS ---
       - name: Generate Snake Contribution Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: NestiaDev-id
           outputs: |
             assets/generated/github-snake.svg
             assets/generated/github-snake-dark.svg?palette=github-dark
 
+      # --- COMMIT AND PUSH ALL FILES ---
       - name: Commit and Push All Generated Animations
         run: |
           git config user.name "github-actions[bot]"
