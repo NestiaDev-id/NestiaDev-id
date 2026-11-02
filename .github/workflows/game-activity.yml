@@ -1,0 +1,63 @@
+name: Generate Profile Contribution Animations
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write 
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v7
+
+      - name: Generate Light Mode Pacman Contribution Graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          SVG_OUTPUT_PATH: assets/generated/pacman-contribution-graph.svg
+
+      - name: Generate Dark Mode Pacman Contribution Graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          SVG_OUTPUT_PATH: assets/generated/pacman-contribution-graph-dark.svg
+          PACMAN_BACKGROUND_COLOR: "0d1117"    
+          PACMAN_WALL_COLOR: "21262d"       
+          PACMAN_COLOR: "58a6ff"          
+          PACMAN_POINT_COLOR: "c9d1d9"      
+          PACMAN_GHOST_COLOR: "8b949e"     
+          PACMAN_LOADING_COLOR: "c9d1d9" 
+
+      - name: Generate Snake Contribution Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/generated/github-snake.svg
+            assets/generated/github-snake-dark.svg?palette=github-dark
+
+      - name: Commit and Push All Generated Animations
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@://github.com"
+
+          git add assets/generated/pacman-contribution-graph.svg \
+                  assets/generated/pacman-contribution-graph-dark.svg \
+                  assets/generated/github-snake.svg \
+                  assets/generated/github-snake-dark.svg
+
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: update contribution animations (Pacman & Snake) 팩맨 🐍"
+            git push origin main
+          else
+            echo "No changes to commit for animations."
+          fi
