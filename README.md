@@ -158,16 +158,14 @@ Sunday                   1113 commits        █████░░░░░░�
   </tr>
 </table>
 
-
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/main/assets/generated/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/main/assets/generated/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/main/assets/generated/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/output/pacman-contribution-graph.svg">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/main/assets/generated/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/main/assets/generated/github-snake.svg">
-  <img alt="GitHub Contributions Snake" src="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/main/assets/generated/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/output/github-snake.svg">
+  <img alt="GitHub Contributions Snake" src="https://raw.githubusercontent.com/NestiaDev-id/NestiaDev-id/output/github-snake.svg">
 </picture>
