@@ -19,14 +19,13 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v7
 
-      # --- PACMAN ANIMATION STEPS (Sesuai Struktur Resmi abozanona) ---
-      - name: Generate Pacman Contribution Graph
+      - name: Generate Arcade Contribution Graphs
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: NestiaDev-id
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: 'pacman,breakout'
+          hide_month_labels: 'false'
 
-      # --- SNAKE ANIMATION STEPS ---
       - name: Generate Snake Contribution Animation
         uses: Platane/snk@v3
         with:
@@ -35,27 +34,21 @@ jobs:
             assets/generated/github-snake.svg
             assets/generated/github-snake-dark.svg?palette=github-dark
 
-      # --- COMMIT AND PUSH ALL FILES ---
       - name: Commit and Push All Generated Animations
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # AMUNISI UTAMA: Menyalin file SVG hasil kompilasi internal Pacman ke folder target Anda
-          # Nama file default dari pustaka abozanona adalah github-contribution-grid-snake.svg
-          if [ -f "github-contribution-grid-snake.svg" ]; then
-            cp github-contribution-grid-snake.svg assets/generated/pacman-contribution-graph.svg
-            # Jika pustaka abozanona menghasilkan versi dark otomatis, kita salin juga ke target dark Anda
-            cp github-contribution-grid-snake.svg assets/generated/pacman-contribution-graph-dark.svg
+          if [ -d "dist" ]; then
+            mv dist/pacman.svg assets/generated/pacman-contribution-graph.svg
+            mv dist/breakout.svg assets/generated/pacman-contribution-graph-dark.svg
           fi
 
-          # Daftarkan HANYA 4 file SVG spesifik agar aset gambar/video Anda yang lain aman
           git add assets/generated/pacman-contribution-graph.svg \
                   assets/generated/pacman-contribution-graph-dark.svg \
                   assets/generated/github-snake.svg \
                   assets/generated/github-snake-dark.svg
 
-          # Lakukan commit dan push jika terdeteksi ada perubahan
           if ! git diff --staged --quiet; then
             git commit -m "chore: update contribution animations (Pacman & Snake) 팩맨 🐍"
             git pull --rebase origin main
