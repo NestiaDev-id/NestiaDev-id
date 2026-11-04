@@ -84,8 +84,8 @@ Hi there! I'm Christian, a passionate developer who thrives on building full-sta
 _log of my coding activity, open-source contributions, and repository updates:_
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#50](https://github.com/NestiaDev-id/My-Web-Portofolio/pull/50) in [NestiaDev-id/My-Web-Portofolio](https://github.com/NestiaDev-id/My-Web-Portofolio)
-2. 🔒 Closed issue [#46](https://github.com/NestiaDev-id/My-Web-Portofolio/issues/46) in [NestiaDev-id/My-Web-Portofolio](https://github.com/NestiaDev-id/My-Web-Portofolio)
+1. 🎉 Merged PR [#51](https://github.com/NestiaDev-id/My-Web-Portofolio/pull/51) in [NestiaDev-id/My-Web-Portofolio](https://github.com/NestiaDev-id/My-Web-Portofolio)
+2. 💪 Opened PR [#51](https://github.com/NestiaDev-id/My-Web-Portofolio/pull/51) in [NestiaDev-id/My-Web-Portofolio](https://github.com/NestiaDev-id/My-Web-Portofolio)
 3. 🎉 Merged PR [#48](https://github.com/NestiaDev-id/My-Web-Portofolio/pull/48) in [NestiaDev-id/My-Web-Portofolio](https://github.com/NestiaDev-id/My-Web-Portofolio)
 4. 🎉 Merged PR [#49](https://github.com/NestiaDev-id/My-Web-Portofolio/pull/49) in [NestiaDev-id/My-Web-Portofolio](https://github.com/NestiaDev-id/My-Web-Portofolio)
 5. 💪 Opened PR [#49](https://github.com/NestiaDev-id/My-Web-Portofolio/pull/49) in [NestiaDev-id/My-Web-Portofolio](https://github.com/NestiaDev-id/My-Web-Portofolio)
